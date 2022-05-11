@@ -93,7 +93,7 @@ if(process.argv.length === 3) {
 
     // Save  files 
     const finallyName = fileName.replace(/\.[^/.]+$/, "")
-    fs.writeFile(`${finallyName}.yml`, doc, "utf8", (error) => {
+    fs.writeFile(`${finallyName}.yaml`, doc, "utf8", (error) => {
       if(error) {
         console.log(error)
       } else {
