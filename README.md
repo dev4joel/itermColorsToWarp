@@ -17,7 +17,7 @@ node iterm-colors-to-warp.js [path-to-iterm-profile.json]
 ```
 
 
-Steps to export an iTerm Color Profile:
+## Steps to export an iTerm Color Profile:
 
 1. Open the iTerm2 App
   
@@ -26,7 +26,7 @@ Steps to export an iTerm Color Profile:
 3. Other Actions -> Save Profile as JSON
   
 
-Steps to use the theme in Warp terminal:
+## Steps to use the theme in Warp terminal:
 
 1. Run this script from the command line: 
 
