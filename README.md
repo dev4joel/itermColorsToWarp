@@ -50,4 +50,4 @@ Your new theme should now be visible on the list of available themes.
 
 
 
-Inspire by: https://gist.github.com/2xAA/bd01638dc9ca46c590fda06c4ef0cc5a
+Fork by: https://gist.github.com/2xAA/bd01638dc9ca46c590fda06c4ef0cc5a
